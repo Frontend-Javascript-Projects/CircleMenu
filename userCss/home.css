@@ -52,3 +52,6 @@
     border-radius: 50%;
     position: absolute;
 }
+.open-menu {
+    z-index: 99;
+}
