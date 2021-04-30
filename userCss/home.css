@@ -7,6 +7,12 @@
 .animeClass{
     position: relative;
 }
+@media screen and (max-width:500px) {
+    .image {
+        display: block;
+    }
+    
+}
 .generation-image , .memberPhoto{
     position: relative;
     background-color: #ffffff;
