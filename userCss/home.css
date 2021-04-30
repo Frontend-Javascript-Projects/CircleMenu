@@ -31,10 +31,7 @@ label {
     color: #ffffff;
 
 }
-.right{
-    display: flex;
-    justify-content:right;
-}
+
 .menu{
     position:absolute;
     display: none;
@@ -51,14 +48,4 @@ label {
     padding: 2px;
     border-radius: 50%;
     position: absolute;
-}
-.overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    background-color: rgba(255, 255, 255, .15);
-    backdrop-filter: blur(5px);
-    z-index: 10;
 }
